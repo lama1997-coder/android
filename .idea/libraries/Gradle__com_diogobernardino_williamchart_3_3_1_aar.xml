@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.diogobernardino:williamchart:3.3.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5ec4ee4894d89fb20d7c770b4ae13f21/jetified-williamchart-3.3.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5ec4ee4894d89fb20d7c770b4ae13f21/jetified-williamchart-3.3.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5ec4ee4894d89fb20d7c770b4ae13f21/jetified-williamchart-3.3.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
